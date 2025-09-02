@@ -1,5 +1,4 @@
 #include<iostream>
-#include<vector>
 using namespace std;
 class Rectangle
 {
@@ -25,4 +24,5 @@ int main()
    Rectangle rec;
    cout<<"the area of rectangle is: "<<rec.calculateArea();
     return 0;
+
 }
